@@ -4,7 +4,12 @@ develop-eggs
 downloads
 var
 parts
+src
+lib
+include
 *~
 *py?
 .installed.cfg
+setenv
+.mr.developer.cfg
 
