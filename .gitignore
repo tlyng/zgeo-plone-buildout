@@ -1,0 +1,10 @@
+bin
+eggs
+develop-eggs
+downloads
+var
+parts
+*~
+*py?
+.installed.cfg
+
